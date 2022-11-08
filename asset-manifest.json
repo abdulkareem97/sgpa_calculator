@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sgpa_calculator/static/css/main.dee76e7c.css",
+    "main.js": "/sgpa_calculator/static/js/main.f9a45ffd.js",
+    "index.html": "/sgpa_calculator/index.html",
+    "main.dee76e7c.css.map": "/sgpa_calculator/static/css/main.dee76e7c.css.map",
+    "main.f9a45ffd.js.map": "/sgpa_calculator/static/js/main.f9a45ffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee76e7c.css",
+    "static/js/main.f9a45ffd.js"
+  ]
+}
